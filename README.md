@@ -1,2 +1,4 @@
-# recetas
-ejercicio de recetas para el curso OCW ULL
+# Recetas
+
+* [Huevos rotos con chorizo](huevos-rotos-con-chorizo.md)
+* [Tortilla](tortilla.md)
