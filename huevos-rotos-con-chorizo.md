@@ -19,4 +19,4 @@
 6.  En un plato servir primero las papas fritas y encima los 2 huevos y el chorizo picado en rodajas.  
 7.  Agregar pimentón en polvo y sal al gusto.
 
-![huevos con chorizo](images/huevos-con-chorizo.png)
+![huevos con chorizo](images/huevos-a-la-andaluza.png)
