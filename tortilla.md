@@ -10,3 +10,5 @@
 4. Batir los huevos
 5. Freír los huevos batidos en una sartén 
 7. Agregar sal al gusto.
+
+![Tortilla Francesa](images/tortilla-francesa.png)
